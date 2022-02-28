@@ -1,0 +1,59 @@
+.background-color--primary {
+    background: #f44336!important;
+}
+
+.text-color--primary {
+    color: #f44336;
+}
+
+.title--primary {
+    font-size: 4.8rem;
+    color: #f44336;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.title-underline {
+    width: 100px;
+    height: 10px;
+    background-color: #ff0000;
+    border-radius: 50px;
+}
+
+.p-text--primary {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.bor-bot {
+    border-bottom: 1px solid #ddd;
+}
+
+.btn {
+    text-decoration: none;
+    border: none;
+    outline: none;
+    height: 48px;
+    min-width: 108px;
+    cursor: pointer;
+    text-align: center;
+    list-style: none;
+    padding: 12px 24px;
+    background-color: #fff;
+    font-size: 1.6rem;
+}
+
+.btn:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.btn--primary-color {
+    background-color: #f44336;
+    color: #fff;
+}

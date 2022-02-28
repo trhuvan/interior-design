@@ -1,0 +1,35 @@
+@media (min-width: 740px) and (max-width: 1239px) {}
+
+@media (max-width: 1100px) {
+    .menu {
+        transform: translateX(-100%);
+        transition: all linear 0.3s;
+    }
+    .app-content-footer,
+    .app-content {
+        margin-left: 0!important;
+        width: 100%!important;
+    }
+    #mobile-header-check:checked~.menu {
+        transform: translateY(0);
+    }
+    .mobile-header {
+        display: block!important;
+    }
+    #mobile-header-close:checked~.menu {
+        transform: translateX(-100%);
+    }
+}
+
+@media (max-width: 780px) {
+    .mobile-showcase-title {
+        font-size: 4.6rem;
+        margin-bottom: 10px!important;
+    }
+    #showcase {
+        padding-top: 20px;
+    }
+    .app-content-footer__text {
+        font-size: 1.2rem!important;
+    }
+}

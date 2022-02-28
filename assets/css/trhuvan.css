@@ -1,0 +1,393 @@
+/* _Text */
+
+.text-dec-non {
+    text-decoration: none;
+}
+
+.text-spa-2 {
+    letter-spacing: 2px;
+}
+
+.text-upp {
+    text-transform: uppercase;
+}
+
+.text-a-c {
+    text-align: center;
+}
+
+.text-color {
+    color: #555;
+}
+
+.text-color-white {
+    color: #fff;
+}
+
+.text-color-black {
+    color: #000;
+}
+
+.line-hei-14 {
+    line-height: 1.4;
+}
+
+.line-hei-15 {
+    line-height: 1.5;
+}
+
+.line-hei-27 {
+    line-height: 2.7;
+}
+
+.line-hei-64 {
+    line-height: 6.4;
+}
+
+.f-z-13 {
+    font-size: 1.3rem;
+}
+
+.f-z-14 {
+    font-size: 1.4rem;
+}
+
+.f-z-15 {
+    font-size: 1.5rem;
+}
+
+.f-z-16 {
+    font-size: 1.6rem;
+}
+
+.f-z-18 {
+    font-size: 1.8rem;
+}
+
+.f-z-20 {
+    font-size: 2rem;
+}
+
+.f-z-24 {
+    font-size: 2.4rem;
+}
+
+.f-z-36 {
+    font-size: 3.6rem;
+}
+
+.f-z-50 {
+    font-size: 5rem;
+}
+
+.f-z-64 {
+    font-size: 6.4rem;
+}
+
+.f-w-300 {
+    font-weight: 300;
+}
+
+.f-w-400 {
+    font-weight: 400;
+}
+
+.f-w-500 {
+    font-weight: 500;
+}
+
+.f-w-700 {
+    font-weight: 700;
+}
+
+.f-w-900 {
+    font-weight: 900;
+}
+
+
+/* _Padding */
+
+.pad-10 {
+    padding: 10px;
+}
+
+.pad-15 {
+    padding: 15px;
+}
+
+.pad-16 {
+    padding: 16px;
+}
+
+.pad-20 {
+    padding: 20px;
+}
+
+.pad-30 {
+    padding: 30px;
+}
+
+.pad-l-0 {
+    padding-left: 0!important;
+}
+
+.pad-t-8 {
+    padding-top: 8px;
+}
+
+.pad-t-80 {
+    padding-top: 80px;
+}
+
+.pad-r-30 {
+    padding-right: 30px;
+}
+
+.pad-t-b-8 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.pad-t-b-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pad-t-b-25 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.pad-l-r-8 {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.pad-l-r-16 {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.pad-l-r-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.pad-l-r-30 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.pad-l-r-50 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+/* _Margin */
+
+.mar-0 {
+    margin: 0;
+}
+
+.mar-l-20 {
+    margin-left: 20px;
+}
+
+.mar-l-25 {
+    margin-left: 25px;
+}
+
+.mar-t-0 {
+    margin-top: 0!important;
+}
+
+.mar-t-24 {
+    margin-top: 24px;
+}
+
+.mar-t-60 {
+    margin-top: 60px;
+}
+
+.mar-t-80 {
+    margin-top: 80px;
+}
+
+.mar-r-4 {
+    margin-right: 4px;
+}
+
+.mar-r-16 {
+    margin-right: 16px;
+}
+
+.mar-b-0 {
+    margin-bottom: 0px!important;
+}
+
+.mar-b-4 {
+    margin-bottom: 4px;
+}
+
+.mar-b-12 {
+    margin-bottom: 12px;
+}
+
+.mar-b-16 {
+    margin-bottom: 16px;
+}
+
+.mar-b-20 {
+    margin-bottom: 20px;
+}
+
+.mar-b-32 {
+    margin-bottom: 32px;
+}
+
+.mar-b-50 {
+    margin-bottom: 50px;
+}
+
+.mar-b-64 {
+    margin-bottom: 64px;
+}
+
+.mar-t-b-64 {
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+
+/* _Height _Width */
+
+.hei-104 {
+    height: 104px;
+}
+
+.min-hei-43 {
+    min-height: 43px;
+}
+
+.wid-300 {
+    width: 300px;
+}
+
+.hei-full {
+    height: 100%;
+}
+
+.wid-full {
+    width: 100%;
+}
+
+
+/* _Flex */
+
+.flex-dis {
+    display: flex;
+}
+
+.flex-a-i-c {
+    align-items: center;
+}
+
+.flex-j-c-c {
+    justify-content: center;
+}
+
+.flex-j-c-s-b {
+    justify-content: space-between;
+}
+
+.flex-dir-col {
+    flex-direction: column;
+}
+
+
+/* _Display */
+
+.dis-blo {
+    display: block;
+}
+
+.dis-non {
+    display: none;
+}
+
+
+/* _Cursor */
+
+.cur-po {
+    cursor: pointer;
+}
+
+
+/* _Position */
+
+.pos-rel {
+    position: relative;
+}
+
+.pos-abs {
+    position: absolute;
+}
+
+.pos-fix {
+    position: fixed;
+}
+
+.pos-l-0 {
+    left: 0;
+}
+
+.pos-t-0 {
+    top: 0;
+}
+
+.pos-r-0 {
+    right: 0;
+}
+
+.pos-b-0 {
+    bottom: 0;
+}
+
+.pos-t-0-l-0-r-0 {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+
+/* _Border */
+
+.bor-rad-5 {
+    border-radius: 5px;
+}
+
+.bor-rad-50 {
+    border-radius: 50px;
+}
+
+
+/* _Background */
+
+.bg-color-white {
+    background-color: #fff;
+}
+
+
+/* _List */
+
+.lis-sty-non {
+    list-style: none;
+}
+
+
+/* _Opacity */
+
+.opa-0-6 {
+    opacity: 0.6;
+}
